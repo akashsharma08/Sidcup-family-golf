@@ -9,7 +9,7 @@
 }
 
 #home-image{
-	
+	background-size:contain;
 }
 html, body {
 	height: 100%;
